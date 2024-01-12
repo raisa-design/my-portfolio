@@ -5,15 +5,15 @@ export function Info() {
   return (
     <>
       <div className='infos'>
-        <SectionTitle text='Languages' />
+        <SectionTitle text='Idiomas' />
         <div className='languages-info'>
           <span> EN- intermediary</span>
           <span>PT-BR - Native Speaker</span>
         </div>
-        <SectionTitle text='Education' />
+        <SectionTitle text='Educação' />
         <div className='education-info'>
-          <span>emoji</span>
           <span></span>
+          <span>Bacharelado em Administração </span>
         </div>
       </div>
     </>
